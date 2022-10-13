@@ -3,11 +3,11 @@
     /* Background */
 
     #gallery {
-        
+     
         display: block;
-        position: absolute;
-        
-
+        margin: 5px;
+        border: 10px solid #ccc;
+        width: 70%;
       
     
     }
